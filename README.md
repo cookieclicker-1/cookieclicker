@@ -1,4 +1,4 @@
-# 🍪 Cookie Clicker — The Ultimate Clicker Game Experience  
+# About me
 
 **[Cookie Clicker](https://cookieclickers.io/)** is a legendary **incremental idle game** that starts with a single click and evolves into an unstoppable cookie-baking empire. The player’s goal is simple yet endlessly engaging: **bake as many cookies as possible** by clicking, upgrading, and automating production.  
 
